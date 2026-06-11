@@ -7,10 +7,9 @@ I am a passionate Data Analyst and AI enthusiast focused on transforming raw dat
 🎓 Currently building projects in:
 
 * Data Analytics
-* Business Intelligence
 * Machine Learning
-* Artificial Intelligence
-* Data Engineering
+* Data scientist
+* * Business Intelligence
 
 ## 🚀 About Me
 
