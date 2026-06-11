@@ -1,4 +1,4 @@
-# Hi 👋, I'm KARRI SURYA PAVAN
+# Hi , I'm KARRI SURYA PAVAN
 
 ### Data Analyst | Aspiring Data Scientist | AI Enthusiast
 
