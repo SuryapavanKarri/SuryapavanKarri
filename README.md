@@ -26,8 +26,6 @@ I am a passionate Data Analyst and AI enthusiast focused on transforming raw dat
 ### Programming
 
 * Python
-* SQL
-* C++
 
 ### Data Analytics
 
