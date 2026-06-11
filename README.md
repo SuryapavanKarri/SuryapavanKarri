@@ -1,6 +1,6 @@
 # Hi , I'm KARRI SURYA PAVAN
 
-### Data Analyst | Aspiring Data Scientist | AI Enthusiast
+### Data Analyst | Aspiring Data Scientist 
 
 I am a passionate Data Analyst and AI enthusiast focused on transforming raw data into meaningful insights. I enjoy building data-driven solutions using Python, SQL, Power BI, and Machine Learning.
 
