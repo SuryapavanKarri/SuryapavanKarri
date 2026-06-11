@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋, I'm KARRI SURYA PAVAN
 
-<!--
-**SuryapavanKarri/SuryapavanKarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Aspiring Data Scientist | AI Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst and AI enthusiast focused on transforming raw data into meaningful insights. I enjoy building data-driven solutions using Python, SQL, Power BI, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently building projects in:
+
+* Data Analytics
+* Business Intelligence
+* Machine Learning
+* Artificial Intelligence
+* Data Engineering
+
+## 🚀 About Me
+
+* 📊 Skilled in Data Analysis and Visualization
+* 🐍 Working with Python for Data Science and Automation
+* 🗄️ Experienced with SQL and Database Management
+* 📈 Creating interactive dashboards using Power BI
+* 🤖 Exploring AI, Machine Learning, and Generative AI
+* 🌱 Continuously learning cloud technologies and modern data engineering tools
+
+## 🛠️ Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* C++
+
+### Data Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Excel
+
+### Visualization
+
+* Power BI
+* Tableau
+* Excel Dashboards
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* SQL Server
+
+### Machine Learning
+
+* Scikit-Learn
+* TensorFlow (Beginner)
+* Data Preprocessing
+* Predictive Analytics
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+## 📂 Featured Projects
+
+### HR Analytics Dashboard
+
+Built an interactive Power BI dashboard to analyze employee attrition, workforce demographics, and business KPIs.
+
+### Amazon Sales Analysis
+
+Performed sales trend analysis, KPI tracking, and business performance reporting using Power BI and SQL.
+
+### Mental Health in Tech Analysis
+
+Explored survey data using Python and Machine Learning techniques to uncover patterns and insights.
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/surya-pavan-karri-9627921ba/
+* Email: karrisuryapavan592@gmail.com
+
+⭐ I believe data tells a story. My goal is to turn complex data into actionable business insights.
