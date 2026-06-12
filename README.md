@@ -49,7 +49,7 @@ I am a passionate Data Analyst and AI enthusiast focused on transforming raw dat
 ### Machine Learning
 
 * Scikit-Learn
-* TensorFlow (Beginner)
+* TensorFlow 
 * Data Preprocessing
 * Predictive Analytics
 
